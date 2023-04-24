@@ -9,6 +9,7 @@
 }
 body {
     background: url(https://i.postimg.cc/GpNxfKQt/banner-min.jpg);
+    background: linear-gradient(to right, #ee0979, #ff6a00);
     background-size: cover;
     background-position: center;
 }
