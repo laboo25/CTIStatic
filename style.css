@@ -11,7 +11,6 @@ body {
     background: url(https://i.postimg.cc/GpNxfKQt/banner-min.jpg);
     background-size: cover;
     background-position: center;
-    position: fixed;
 }
 .overlay {
     width: 100%;
