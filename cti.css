@@ -17,6 +17,7 @@ body {
     justify-content: center;
 }
 body .detail {
+    display: block;
     width: 200px;
     height: 300px;
     background: rgba(0, 0, 255, 0);
@@ -92,11 +93,11 @@ p {
         display: none;
     }
     .container .detail {
-        display: block;
         width: 200px;
         height: 300px;
         background: rgba(0, 0, 255, 0);
         margin: 50px 50px;
+        display: block;
     }
 
   }
