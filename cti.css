@@ -24,6 +24,10 @@ body .detail {
 }
 .container .detail {
     display: none;
+    width: 200px;
+    height: 300px;
+    background: rgba(0, 0, 255, 0);
+    margin: 50px 50px;
 }
 img {
     width: 100%;
@@ -89,6 +93,10 @@ p {
     }
     .container .detail {
         display: block;
+        width: 200px;
+        height: 300px;
+        background: rgba(0, 0, 255, 0);
+        margin: 50px 50px;
     }
 
   }
