@@ -16,7 +16,7 @@ body {
 .overlay {
     width: 100%;
     height: 100vh;
-    background: rgba(0, 0, 0, 0.856);
+    background: rgba(0, 0, 0, 0);
 }
 .container {
     display: grid;
