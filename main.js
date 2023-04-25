@@ -1,5 +1,5 @@
 const imgs = [];
-imgs[1] = 'https://i.postimg.cc/rsh2GLj3/Bg-1.jpg';
+imgs[1] = 'https://i.postimg.cc/DyTKGBg7/Bg-1.jpg';
 imgs[2] = 'https://i.postimg.cc/JzmkbkVj/Bg-2.jpg';
 imgs[3] = 'https://i.postimg.cc/YqQFGxVp/Bg-3.jpg';
 imgs[4] = 'https://i.postimg.cc/c4XMFhxd/Bg-4.jpg';
