@@ -16,11 +16,14 @@ body {
     display: flex;
     justify-content: center;
 }
-.detail {
+body .detail {
     width: 200px;
     height: 300px;
     background: rgba(0, 0, 255, 0);
     margin: 50px 50px;
+}
+.container .detail {
+    display: none;
 }
 img {
     width: 100%;
@@ -80,6 +83,12 @@ p {
     body .container p {
         font-family: noto;
         font-weight: 400;
+    }
+    body .detail {
+        display: none;
+    }
+    .container .detail {
+        display: block;
     }
 
   }
