@@ -77,7 +77,7 @@ p {
         overflow-x: hidden;
         box-sizing: border-box;
     }
-    .body .container p {
+    body .container p {
         font-family: noto;
         font-weight: 400;
     }
