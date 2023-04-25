@@ -5,7 +5,7 @@ imgs[3] = 'https://i.postimg.cc/YqQFGxVp/Bg-3.jpg';
 imgs[4] = 'https://i.postimg.cc/c4XMFhxd/Bg-4.jpg';
 imgs[5] = 'https://i.postimg.cc/G2FvGJgw/Bg-5.jpg';
 imgs[6] = 'https://i.postimg.cc/CM3Dx2cP/Bg-6.jpg';
-imgs[7] = 'https://i.postimg.cc/pVhzxvJ5/Bg-7.jpg';
+imgs[7] = 'https://i.postimg.cc/CMszzPTV/Bg-7.jpg';
 imgs[8] = 'https://i.postimg.cc/d3syf8Yp/Bg-8.jpg';
 
 window.onload = function () {
