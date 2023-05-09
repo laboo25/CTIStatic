@@ -86,6 +86,7 @@ p {
         box-sizing: border-box;
     }
     body .container p {
+        font-size: 18px;
         font-family: noto;
         font-weight: 400;
     }
