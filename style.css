@@ -39,6 +39,9 @@ body {
 .blue {
     background: #00bfff;
     }
+.purple {
+    background: #200645;
+    }
 .RedOrange {
       background: linear-gradient(to right, red, orange);
 }
