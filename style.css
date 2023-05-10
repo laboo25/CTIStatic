@@ -43,7 +43,7 @@ body {
     background: #200645;
     }
 .RedOrange {
-      background: linear-gradient(to right, red, orange);
+      background: #FF4500;
 }
 a {
     text-decoration: none;
