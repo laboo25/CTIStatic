@@ -10,6 +10,7 @@
 body {
     background: url(https://i.postimg.cc/pVhzxvJ5/Bg-7.jpg);
     /* background: linear-gradient(to right, #ee0979, #ff6a00); */
+    background: white;
     background-size: cover;
     background-position: center;
 }
@@ -29,13 +30,19 @@ body {
     background: rgba(182, 182, 182, 0.411);
     padding: 10px;
 }
+.red {
+    background: red;
+    }
+. orange {
+    background: orange;
+    }
 a {
     text-decoration: none;
     color: black;
 }
 h3 {
     font-family: noto;
-    color: black;
+    color: white;
     text-transform: uppercase;
 }
 ul {
@@ -43,7 +50,7 @@ ul {
 }
 li {
     display: inline-block;
-    color: blue;
+    color: black;
     font-family: noto;
     text-transform: uppercase;
     font-size: 12px;
