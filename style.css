@@ -36,6 +36,9 @@ body {
 .orange {
     background: orange;
     }
+.RedOrange {
+      background: linear-gradient(to right, red, orange);
+}
 a {
     text-decoration: none;
     color: black;
