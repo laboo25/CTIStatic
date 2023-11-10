@@ -102,7 +102,7 @@ p {
         margin: 50px 50px;
         display: block;
     }
-    button {
+    button.btn {
          display: none;
             position: fixed;
             bottom: 20px;
