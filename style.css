@@ -71,5 +71,6 @@ li {
 }
 p {
     font-family: noto;
+    font-weight: 400;
     text-transform: uppercase;
 }
