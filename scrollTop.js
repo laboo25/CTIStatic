@@ -1,4 +1,4 @@
-var scrollToTopBtn = document.createElement("button");
+var scrollToTopBtn = document.createElement("button.btn");
         scrollToTopBtn.innerHTML = "Scroll to Top";
         scrollToTopBtn.id = "scrollToTopBtn";
 
